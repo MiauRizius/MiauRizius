@@ -12,4 +12,4 @@ Im also working on KeksBot and Neoben (Discord bots)
    - Python
    - JavaScript
    - php
-  (- HTML/CSS)
+   - (HTML/CSS)
