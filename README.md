@@ -13,4 +13,4 @@
   - maurice@keksstudios.dev (Contact me via. E-Mail (late response)
   - development@keksstudios.dev (Contact development team of keksstudios (late response, maybe not me))
   - support@keksstudios.dev (Contact KeksStudios Support (fast response, maybe not me))
-  - [Discord](https://discord.gg7rHtSd7X) - https://discord.gg7rHtSd7X (Join my discord server. very fast response)
+  - [Discord](https://discord.gg7rHtSd7X) (Join my discord server. very fast response)
