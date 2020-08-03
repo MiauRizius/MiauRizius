@@ -7,7 +7,7 @@
  
  ## Projects
   - KeksChat (RealtimeChat with WebApp, Desktop-App and Mobile App)
-  - KeksChat (Discord Bot)
+  - KeksBot (Discord Bot)
   - AMEP (Anonymous Message Exchange Platform)
 
 ## Contact
