@@ -9,6 +9,7 @@
   - KeksChat (RealtimeChat with WebApp, Desktop-App and Mobile App)
   - KeksBot (Discord Bot)
   - AMEP (Anonymous Message Exchange Platform)
+  - Eddy (Discord Bot with WebDashboard)
 
 ## Contact
   - maurice@keksstudios.dev (Contact me via. E-Mail (late response)
