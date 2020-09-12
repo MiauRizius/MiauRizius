@@ -3,7 +3,7 @@
  - between 1 - 99 years old, living in germany
  - Software and System Engineer at [KeksStudios](https://keksstudios.dev).
  - Head of KeksStudios development team
- - Working with Java, php, MySQL, JavaScript, Python (and TypeScript)
+ - Working with Java, php, MySQL, JavaScript, Python, C# and C++
  - Love animes ([MyAnimeList](https://myanimelist.net/profile/MauricePascal))
  
  ## Projects
