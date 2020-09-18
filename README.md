@@ -10,6 +10,7 @@
   - KeksChat (RealtimeChat with WebApp, Desktop-App and Mobile App)
   - KeksBot (Discord Bot)
   - AMEP (Anonymous Message Exchange Platform)
+  - Discord Bot Creator (Create your own discord Bot without any coding experience)
 
 ## Contact
   - maurice@keksstudios.dev (Contact me via. E-Mail (late response))
