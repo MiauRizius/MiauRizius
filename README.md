@@ -1,6 +1,6 @@
 # Maurice-Pascal L.
 ## Facts
- - between 14 years old, living in germany
+ - about 14 years old, living in germany
  - Software Engineer at [KeksStudios](https://keksstudios.dev).
  - Head of KeksStudios development team
  - Love animes ([MyAnimeList](https://myanimelist.net/profile/MauricePascal))
