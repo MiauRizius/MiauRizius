@@ -16,3 +16,11 @@
   - Sea of Thieves
   - 100% orange juice
   - Garry's mod
+
+## Favourite subjects
+  1. Maths
+  2. English
+  3. IT (Computer Science)
+  4. Biology
+  5. Physics
+  6. Chemistry
