@@ -24,3 +24,11 @@
   4. Biology
   5. Physics
   6. Chemistry
+  
+## Favorite subject areas in computer science
+  - Network technology
+  - Programming
+  - Software Engineering
+  - Artificial intelligence
+  - Algorithms 
+  - IT-Security
