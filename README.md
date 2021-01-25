@@ -32,3 +32,5 @@
   - Artificial intelligence
   - Algorithms 
   - IT-Security
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MauricePascal)](https://github.com/anuraghazra/github-readme-stats)
