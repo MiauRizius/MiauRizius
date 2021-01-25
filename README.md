@@ -7,7 +7,7 @@
  
 ## Contact
   - maurice@keksstudios.dev
-  - [Discord](https://discord.gg7rHtSd7X)
+  - [Discord](https://discord.gg/7rHtSd7X)
   
 ## Games
   - Minecraft
