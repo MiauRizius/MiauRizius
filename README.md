@@ -25,7 +25,7 @@
   5. Physics
   6. Chemistry
   
-## Languages is speak
+## Languages
   - German
   - English
   - Japanese (a bit, im learning it)
