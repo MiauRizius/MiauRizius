@@ -25,6 +25,11 @@
   5. Physics
   6. Chemistry
   
+## Languages is speak
+  - German
+  - English
+  - Japanese (a bit, im learning it)
+  
 ## Favorite subject areas in computer science
   - Network technology
   - Programming
