@@ -37,6 +37,18 @@
   - Artificial intelligence
   - Algorithms 
   - IT-Security
+
+## Programming languages
+  - Java
+  - Kotlin
+  - php
+  - SQL
+  - JavaScript
+  - TypeScript
+  - NodeJS
+  - Python
+  - C/C++/C#
+  - dart
   
 ## Stats
 
