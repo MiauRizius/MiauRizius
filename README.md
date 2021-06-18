@@ -1,55 +1,20 @@
+[youtube_shield]: https://img.shields.io/badge/YouTube-red
+[discord_shield]: https://img.shields.io/badge/Discord-blue
+[youtube]: youtube.com/channel/UC1XJonqgNCHu1swge8O8ODQ
+[discord]: https://discord.gg/QY7mycdGxZ
+
 # Maurice-Pascal L.
-## Facts
- - between 10 and 20 years old, living in germany
- - Software Engineer at [KeksStudios](https://keksstudios.dev).
- - Head of KeksStudios development team
- - Loves animes ([MyAnimeList](https://myanimelist.net/animelist/MauricePascal))
- 
-## Contact
-  - maurice@keksstudios.dev
-  - [Discord](https://discord.gg/cfvr4NDWQB)
-  
-## Games
-  - Minecraft
-  - Among Us
-  - osu!
-  - Sea of Thieves
-  - 100% orange juice
-  - Garry's mod
+Hello,<br>
+I'm Maurice-Pascal, 15 years old and I do a lot of computer science.<br>
+I am currently attending a [comprehensive school](https://en.wikipedia.org/wiki/Comprehensive_school#Germany) in Germany (like a high school).<br>
+My favourite game is [osu!](https://en.wikipedia.org/wiki/Osu!)
 
-## Favourite subjects
-  1. Maths
-  2. English
-  3. IT (Computer Science)
-  4. Biology
-  5. Physics
-  6. Chemistry
-  
-## Languages
-  - German
-  - English
-  - Japanese (a bit, im learning it)
-  
-## Favorite subject areas in computer science
-  - Network technology
-  - Programming
-  - Software Engineering
-  - Artificial intelligence
-  - Algorithms 
-  - IT-Security
+A lot of my projects aren't finished yet - maybe you can do something with them anyway
 
-## Programming languages
-  - Java
-  - Kotlin
-  - php
-  - SQL
-  - JavaScript
-  - TypeScript
-  - NodeJS
-  - Python
-  - C/C++/C#
-  - dart
-  
+## Social Media
+[ ![youtube_shield][] ][youtube]
+[ ![discord_shield][] ][discord]
+
 ## Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MauricePascal&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
