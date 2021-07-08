@@ -7,7 +7,7 @@
 Hello,<br>
 I'm Maurice-Pascal, 15 years old and I do a lot of computer science.<br>
 I am currently attending a [comprehensive school](https://en.wikipedia.org/wiki/Comprehensive_school#Germany) in Germany (like a high school).<br>
-My favourite game is [osu!](https://en.wikipedia.org/wiki/Osu!)
+My favourite games are [osu!](https://en.wikipedia.org/wiki/Osu!) and [Genshin Impact](https://en.wikipedia.org/wiki/Genshin_Impact)
 
 A lot of my projects aren't finished yet - maybe you can do something with them anyway
 
