@@ -20,3 +20,6 @@ A lot of my projects aren't finished yet - maybe you can do something with them 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MauricePascal&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricePascal&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MauricePascal&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
