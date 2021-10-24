@@ -21,5 +21,5 @@ A lot of my projects aren't finished yet - maybe you can do something with them 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricePascal&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mauricepascal&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mauricepascal&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
