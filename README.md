@@ -11,10 +11,6 @@ My favourite games are [osu!](https://en.wikipedia.org/wiki/Osu!) and [Genshin I
 
 A lot of my projects aren't finished yet - maybe you can do something with them anyway
 
-## Social Media
-[ ![youtube_shield][] ][youtube]
-[ ![discord_shield][] ][discord]
-
 ## Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MauricePascal&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
