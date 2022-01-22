@@ -13,9 +13,9 @@ A lot of my projects aren't finished yet - maybe you can do something with them 
 
 ## Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MauricePascal&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MiauRizius&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricePascal&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiauRizius&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mauricepascal&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
