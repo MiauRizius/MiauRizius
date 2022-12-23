@@ -3,9 +3,9 @@
 [youtube]: youtube.com/channel/UC1XJonqgNCHu1swge8O8ODQ
 [discord]: https://discord.gg/QY7mycdGxZ
 
-# Maurice-Pascal L.
+# Maurice L.
 Hello,<br>
-I'm Maurice-Pascal, 16 years old and I do a lot of computer science.<br>
+I'm Maurice, 16 years old and I do a lot of computer science.<br>
 I am currently attending a [comprehensive school](https://en.wikipedia.org/wiki/Comprehensive_school#Germany) in Germany (like a high school).<br>
 My favourite games are [Minecraft](https://en.wikipedia.org/wiki/Minecraft) and [Garry's Mod](https://en.wikipedia.org/wiki/Garry%27s_Mod)
 
