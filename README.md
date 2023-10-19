@@ -5,7 +5,7 @@
 
 # Maurice L.
 Hello,<br>
-I'm Maurice, 16 years old and I do a lot of computer science.<br>
+I'm Maurice, 17 years old and I do a lot of computer science.<br>
 I am currently attending a [comprehensive school](https://en.wikipedia.org/wiki/Comprehensive_school#Germany) in Germany (like a high school).<br>
 My favourite game is [Genshin Impact](https://en.wikipedia.org/wiki/Genshin_Impact)
 
