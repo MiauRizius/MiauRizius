@@ -7,9 +7,10 @@
 Hello,<br>
 I'm Maurice, 18 years old and I do a lot of computer science.<br>
 I am currently attending a [Gymnasium](https://en.wikipedia.org/wiki/Gymnasium_(Germany)) in Germany.<br>
+Afterwards I would like to study cybersecurity at [Saarland University](https://uni-saarland.de)
 
 A lot of my projects aren't finished yet - maybe you can do something with them anyway
-
+<!--
 ## Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MiauRizius&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -27,4 +28,6 @@ A lot of my projects aren't finished yet - maybe you can do something with them 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiauRizius&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+<!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MiauRizius&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
