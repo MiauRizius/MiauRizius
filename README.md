@@ -5,7 +5,7 @@
 
 # Maurice L.
 Hello,<br>
-I'm Maurice, 18 years old and I do a lot of computer science.<br>
+I'm Maurice, 19 years old and I do a lot of computer science.<br>
 I am currently attending a [Gymnasium](https://en.wikipedia.org/wiki/Gymnasium_(Germany)) in Germany.<br>
 Afterwards I would like to study cybersecurity at [Saarland University](https://uni-saarland.de)
 
