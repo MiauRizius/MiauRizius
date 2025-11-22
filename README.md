@@ -9,7 +9,7 @@ I'm Maurice, 19 years old and I do a lot of computer science.<br>
 I am currently attending a [Gymnasium](https://en.wikipedia.org/wiki/Gymnasium_(Germany)) in Germany.<br>
 Afterwards I would like to study cybersecurity at [Saarland University](https://uni-saarland.de)
 
-Since I want to be less dependent on the big tech giants, I have migrated all my projects from GitHub to a private Git server.
+Since I want to be less dependent on the big tech giants, I have migrated all my projects from GitHub to a [private Git server](https://git.miaurizius.de).
 Accordingly, nothing will be found here anymore, except for a few API wrappers for services that have already been discontinued.
 <!--
 ## Stats
